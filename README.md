@@ -1,6 +1,8 @@
 # inheritance-practice
 A javascript assignment
 
+## Time
+1-2 hours
 
 ## Associated Reading
 Headfirst Javascript Programming Chapter 13
